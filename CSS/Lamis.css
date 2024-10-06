@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(168, 165, 165);
+}
+h1{
+    background-color: rgb(4, 4, 4);
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(254, 254, 254);
+    text-align:center;
+    font-size: 50px;
+    font-weight: 700;
+}
+h2{
+    background-color: rgb(9, 9, 9);
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: aliceblue;
+   }
+h3{
+    border:rgb(6, 6, 6) 11px outset;
+    padding: 15px;
+    width: 200px;
+    color:rgb(249, 249, 249);
+    font-weight: 900 ;
+    margin-right: 200px;
+    margin-left: 50px;
+    
+}
+.three {
+    line-height: 10px; 
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+     height: 300px;
+     border-radius: 60%;}
+h4{
+    border: rgb(7, 7, 7) 11px double;
+    margin: auto;
+    padding: 4px;
+    width: 450px;
+    text-align: center;
+    
+}
+#hobby{
+    line-height: 20px; 
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    height: 200px;
+}
+ul{
+    margin: 10px;
+    margin-right: 100px; 
+    height: 50px;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    border-bottom:groove rgb(10, 10, 10) 7px;
+}
+h5{
+    border: rgb(0, 0, 0) solid 5px;
+    padding: 15px;
+    width: 150px;
+    text-align: center;
+    margin: auto;
+}
